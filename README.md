@@ -5,7 +5,7 @@ some helpers to make form js easier
 
 Example usage:
 
-//add dynamic functionality to the forms
+		//add dynamic functionality to the forms
 		$('form').forms({
 			toggle: [
 				{ 
